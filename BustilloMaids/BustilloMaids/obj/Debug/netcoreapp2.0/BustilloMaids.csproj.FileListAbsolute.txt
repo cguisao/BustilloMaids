@@ -1,0 +1,11 @@
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\bin\Debug\netcoreapp2.0\BustilloMaids.deps.json
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\bin\Debug\netcoreapp2.0\BustilloMaids.runtimeconfig.json
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\bin\Debug\netcoreapp2.0\BustilloMaids.runtimeconfig.dev.json
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\bin\Debug\netcoreapp2.0\BustilloMaids.dll
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\bin\Debug\netcoreapp2.0\BustilloMaids.pdb
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\obj\Debug\netcoreapp2.0\BustilloMaids.csprojResolveAssemblyReference.cache
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\obj\Debug\netcoreapp2.0\BustilloMaids.csproj.CoreCompileInputs.cache
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\obj\Debug\netcoreapp2.0\BustilloMaids.AssemblyInfoInputs.cache
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\obj\Debug\netcoreapp2.0\BustilloMaids.AssemblyInfo.cs
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\obj\Debug\netcoreapp2.0\BustilloMaids.dll
+D:\GTI Solutions\Bustillo Maids\BustilloMaids\BustilloMaids\obj\Debug\netcoreapp2.0\BustilloMaids.pdb
